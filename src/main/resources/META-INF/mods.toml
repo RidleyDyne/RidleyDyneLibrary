@@ -1,0 +1,16 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="MIT"
+issueTrackerURL="https://github.com/RidleyDyne/RidleyDyneLibrary/issues" #optional
+[[mods]] #mandatory
+modId="ridleydynelibrary" #mandatory
+version="${version}" #mandatory
+displayName="RidleyDyne Library" #mandatory
+#updateJSONURL="" #optional
+displayURL="https://github.com/RidleyDyne/RidleyDyneLibrary" #optional
+#logoFile="" #optional
+#credits="" #optional
+authors="Mark Strendin" #optional
+description='''
+This is a required mod for other RidleyDyne mods. It contains no in-game items or blocks.
+'''
